@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "401093346790",
+    "project_id": "expensemanager-4776e",
+    "storage_bucket": "expensemanager-4776e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401093346790:android:65fb0fd26939d1661b4227",
+        "android_client_info": {
+          "package_name": "com.shivalip.expense"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOHoo07IjoSKBGsY7RVJWPpDAdmS4tsx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
