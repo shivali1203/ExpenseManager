@@ -1,6 +1,6 @@
 package com.shivalip.expense
 
 import io.flutter.embedding.android.FlutterActivity
-class MainActivity : flutterActivity(){
+class MainActivity : FlutterActivity(){
 
 }

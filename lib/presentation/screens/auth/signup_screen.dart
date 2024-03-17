@@ -89,7 +89,7 @@ class _SignupScreenState extends State<SignupScreen> {
                         color: Theme.of(context).primaryColor,
                         child: const Center(
                           child: Text(
-                            'Expenso',
+                            'Expenser',
                             style: TextStyle(
                                 fontSize: 50,
                                 fontWeight: FontWeight.bold,

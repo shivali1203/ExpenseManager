@@ -154,7 +154,7 @@ class _HomeScreenState extends State<HomeScreen> {
                                           height: constraints.maxHeight * 0.03,
                                         ),
                                         Text(
-                                          'Expenso',
+                                          'Expenser',
                                           textAlign: TextAlign.start,
                                           style: TextStyle(
                                               fontSize: 32,

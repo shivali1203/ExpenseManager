@@ -80,7 +80,7 @@ class _LoginScreenState extends State<LoginScreen> {
                         ),
                         const Center(
                           child: Text(
-                            'Expenso',
+                            'Expenser',
                             style: TextStyle(
                                 fontSize: 50,
                                 fontWeight: FontWeight.bold,
