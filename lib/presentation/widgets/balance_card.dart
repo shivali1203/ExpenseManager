@@ -43,14 +43,14 @@ class BalanceCard extends StatelessWidget {
         child: Text(
           amount,
           style: const TextStyle(
-              fontSize: 56, color: Colors.white, fontWeight: FontWeight.bold),
+              fontSize: 40, color: Colors.white, fontWeight: FontWeight.bold),
         ),
       ),
       Positioned(
         right: 20,
         bottom: 15,
         child: Text(
-          'Budgeto',
+          'Expenser',
           style: TextStyle(
               fontSize: 22,
               color: Colors.white.withOpacity(0.4),

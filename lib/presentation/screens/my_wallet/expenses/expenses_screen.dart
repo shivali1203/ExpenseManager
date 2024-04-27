@@ -118,9 +118,9 @@ class _ExpensesScreenState extends State<ExpensesScreen> {
                                             iconName: Icons.qr_code_scanner,
                                             title: 'QR pay',
                                             verHeight:
-                                                constraints.maxHeight * 0.15,
+                                                (constraints.maxHeight * 0.15)+0.965,
                                             horiHeight:
-                                                constraints.maxHeight * 0.5,
+                                                (constraints.maxHeight * 0.5)+0.965,
                                             verWidth:
                                                 constraints.maxHeight * 0.23,
                                             horiWidth:
@@ -141,9 +141,9 @@ class _ExpensesScreenState extends State<ExpensesScreen> {
                                             iconName: Icons.account_box,
                                             title: 'Account pay',
                                             verHeight:
-                                                constraints.maxHeight * 0.15,
+                                                (constraints.maxHeight * 0.15)+0.965,
                                             horiHeight:
-                                                constraints.maxHeight * 0.5,
+                                                (constraints.maxHeight * 0.5)+0.965,
                                             verWidth:
                                                 constraints.maxHeight * 0.23,
                                             horiWidth:

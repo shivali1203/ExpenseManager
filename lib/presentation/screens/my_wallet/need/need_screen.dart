@@ -130,9 +130,9 @@ class _NeedScreenState extends State<NeedScreen> {
                                           iconName: Icons.schedule,
                                           title: 'Autopays',
                                           verHeight:
-                                              constraints.maxHeight * 0.15,
+                                              (constraints.maxHeight * 0.15)+0.965,
                                           horiHeight:
-                                              constraints.maxHeight * 0.5,
+                                              (constraints.maxHeight * 0.5)+0.965,
                                           verWidth:
                                               constraints.maxHeight * 0.22,
                                           horiWidth: constraints.maxWidth * 0.4,
@@ -152,9 +152,9 @@ class _NeedScreenState extends State<NeedScreen> {
                                           iconName: Icons.groups,
                                           title: 'Payers',
                                           verHeight:
-                                              constraints.maxHeight * 0.15,
+                                              (constraints.maxHeight * 0.15)+0.965,
                                           horiHeight:
-                                              constraints.maxHeight * 0.5,
+                                              (constraints.maxHeight * 0.5)+0.965,
                                           verWidth:
                                               constraints.maxHeight * 0.22,
                                           horiWidth: constraints.maxWidth * 0.4,

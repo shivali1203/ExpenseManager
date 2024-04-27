@@ -154,8 +154,8 @@ class _HomeScreenState extends State<HomeScreen> {
                                           height: constraints.maxHeight * 0.03,
                                         ),
                                         Text(
-                                          'Expenser',
                                           textAlign: TextAlign.start,
+                                          'Expenser',
                                           style: TextStyle(
                                               fontSize: 32,
                                               color: Theme.of(context)
@@ -278,7 +278,7 @@ class _HomeScreenState extends State<HomeScreen> {
                                               bottom: 15,
                                               right: 20,
                                               child: Text(
-                                                'Budgeto',
+                                                'Expenser',
                                                 style: TextStyle(
                                                   fontWeight: FontWeight.bold,
                                                   fontSize: 20,

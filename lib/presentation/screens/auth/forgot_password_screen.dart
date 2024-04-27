@@ -64,7 +64,7 @@ class _ForgotPassScreenState extends State<ForgotPassScreen> {
                         color: Theme.of(context).primaryColor,
                         child: const Center(
                           child: Text(
-                            'Budgeto',
+                            'Expenser',
                             style: TextStyle(
                                 fontSize: 50,
                                 fontWeight: FontWeight.bold,
